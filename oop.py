@@ -12,3 +12,4 @@ person1 = Person("Miles", "Morales", "run, ski, soccer, code")
 
 print(
     person1.hobbies)
+#ouput = "run, ski, soccer, code"
